@@ -23,6 +23,7 @@
 7. Empty out following file sections:
 
 `src > app > app.component.html (entire content)`
+
 `src > app > app.component.ts > export class AppComponent {} (brackets)`
 
 ### Optional
