@@ -20,9 +20,10 @@
 
 6. Run `localhost:4200` in browser
 
-7. Empty out following file:
+7. Empty out following file sections:
 
-`src > app > app.component.html`
+`src > app > app.component.html (entire content)`
+`src > app > app.component.ts > export class AppComponent {} (brackets)`
 
 ### Optional
 
