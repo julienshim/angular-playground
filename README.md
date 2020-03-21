@@ -24,6 +24,8 @@
 
 `src > app > app.component.html (entire content)`
 
+Personally, do not recommend to delete the following due to testing error:
+
 `src > app > app.component.ts > export class AppComponent {} (brackets)`
 
 ### Optional
